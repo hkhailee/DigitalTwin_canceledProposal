@@ -1,2 +1,3 @@
-# Base_Model_Combinatorial
-Work on DT Model Combinatorial Creativity through different approaches of implementation 
+# Encased in this repository is a partially fulfilled thesis proposal 
+the work in this proposal was never proposed and a new one was chosen
+
